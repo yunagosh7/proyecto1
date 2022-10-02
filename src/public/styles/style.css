@@ -1,0 +1,9 @@
+body{
+    box-sizing: border-box;
+    color:#fafafa;
+    background-color: #151515;
+}
+
+.img-profile{
+    border-radius: 50%;
+}
